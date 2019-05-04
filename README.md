@@ -1,2 +1,3 @@
 # hello-world
-First repository
+Hello,
+My name is Leena. This is my first GitHub repository. 
